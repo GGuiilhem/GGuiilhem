@@ -16,8 +16,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GGuiilhem&count_private=true&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GGuiilhem&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GGuiilhem&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GGuiilhem&layout=compact&langs_count=8&theme=radical)
+
 
 ---
 
