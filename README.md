@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gabriel Guilhem
 
-💻 Programador especializado em **Python** e **MySQL 5.7**  
+💻 Programador especializado em **Python**, **PHP** e **MySQL 5.7**  
 🚀 Apaixonado por criar soluções criativas e eficientes  
 🎯 Sempre explorando novas ideias e tecnologias  
 
@@ -8,6 +8,7 @@
 
 ## 🔧 Tecnologias & Ferramentas
 - Python 🐍
+- PHP 🐘
 - MySQL 5.7 🗄️
 - FastAPI / Flask
 - Docker & Git
