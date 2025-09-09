@@ -16,8 +16,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GGuiilhem&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GGuiilhem&layout=compact&langs_count=8&theme=radical)
+![Gabriel Guilhem - Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GGuiilhem&theme=radical)
+![Gabriel Guilhem - Estatísticas de commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GGuiilhem&theme=radical)
+![Gabriel Guilhem - Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GGuiilhem&theme=radical)
 
 
 ---
