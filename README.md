@@ -17,8 +17,6 @@
 
 ## 📊 Estatísticas do GitHub
 ![Gabriel Guilhem - Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GGuiilhem&theme=radical)
-![Gabriel Guilhem - Estatísticas de commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GGuiilhem&theme=radical)
-![Gabriel Guilhem - Linguagens mais usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GGuiilhem&theme=radical)
 
 
 ---
