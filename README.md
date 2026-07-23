@@ -24,6 +24,6 @@
 
 ## 📫 Como me encontrar
 - LinkedIn: [linkedin.com/in/gabriel-guilhem](https://www.linkedin.com/in/gabriel-guilhem-18140a19b)
-- E-mail: **gah_04@hotmail.com.com**
+- E-mail: **gah_04@hotmail.com**
 
 ✨ _"Pensar fora da caixa e inovar é o que move a tecnologia."_ ✨
